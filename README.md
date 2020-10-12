@@ -1,7 +1,7 @@
 # Open Source and Why It Matters
 _People only code for the money, don't they?_
 
-Many people thought that open source programmes and softwares are equal to free software. But the fact it, they're not.
+Many people thought that open source programmes and softwares are equal to free software. But the fact is, _they're not_.
 Let's learn what their differences are and eventually understand why Open Source Matters to the society
 
 - What does Open-Source means?

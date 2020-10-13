@@ -15,7 +15,7 @@ Here are some differences between Closed-Source software and Open-Source softwar
     4. Open-Source softwares are driven by the people that are willing to take their time to create a software for the community. While Closed-Sourced softwares are generally driven by targets and profits.
 
 - What are the differences between Open-Source software and _Free_ software?\
-Many people made thought that free software are Open-Source, but essentially, they're two _separate_ things. Here are the key factors about why they're different:\
+Many people made thought that free software are Open-Source, but essentially, they're two _separate_ things. Here are the key factors about why they're different:
     1. Open-Source softwares need to have written source code that can be readable by humans (using alphanumeric characters), while Free softwares sometimes don't release their source code to the general public.
     2. Open-Source softwares need to be open to the public, what that means is that their project must be visible to the public and also they need to listen to what the public asks for their software, either it be feature updates or issue updates. Free softwares usually rely on a developer team that code the software and they sometimes release updates whenever they see fit.
     3. Open-Source softwares need to have clear documentations about what they update in their softwares. Free softwares are don't usually come with detailed documentations about their updates.

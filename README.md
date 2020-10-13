@@ -8,7 +8,7 @@ Let's learn what their differences are and eventually understand why Open Source
 Open source generally means a program that has an open [source code](https://en.wikipedia.org/wiki/Source_code) to download and view for the general public. Open source doesn't restrict your rights in copying the source code, and modifying it. This differs a lot with closed source softwares, in which the code **has** to be kept **secret** to the general public.
 
 - What are the differences between Closed-Source software and Open-Source software?\
-Here are some differences between Closed-Source software and Open-Source software:\
+Here are some differences between Closed-Source software and Open-Source software:
     1. Open-Source softwares are free (as in freedom, not beer), while Closed-Source software are generally paid.
     2. Open-Source softwares can be personally reviewed by each and everyone of its user. This means you can decide if the software is good enough based on the code itself. You need to rely on the Company's advertising and policies if you're using a Closed-Sourced software.
     3. Open-Source softwares are often have frequent updates based on the users' issues and reports. Closed-Source softwares rely on their development team to release an update for that particular software.
@@ -28,5 +28,5 @@ Open-Source software have many kind of advantages, for example:
     3. They're supported by the community
     4. They're from the people that genuinely love the software 
 
-- I'm Convinced! What can I do to contribute to Open-Source softwares?
+- I'm Convinced! What can I do to contribute to Open-Source softwares?\
 You're so lucky that it happened to be in October, in this [special month](hacktoberfest.digitalocean.com), you can contribute to any "hacktoberfest" labelled repositories that are hosted in [GitHub](https://github.com). If you contribute 4 pull requests and pass the review period, you'll be having the option to get a free swag or plant a tree! Isn't it amazing? Don't feel intimidated, just follow their [values](hacktoberfest.digitalocean.com/details) and [rules](hacktoberfest.digitalocean.com/details) while participating the hacktoberfest event. This is a **monthlong** event, so take your time, and _keep coding for the win!_  
